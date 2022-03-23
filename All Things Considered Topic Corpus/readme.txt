@@ -1,4 +1,4 @@
-This corpus contains more than 7 million words scraped from the NPR program ALl Things Considered scraped from 1/01/2009 to 09/30/2021. All podcasts are freely available for download or through RSS subscription, and all episodes are accompanied by reliable, professionally-made transcripts. The breakdown of the main corpus is presented below.
+This corpus contains more than 7 million words scraped from segments of the NPR program All Things Considered airing between 1/01/2009 and 09/30/2021. All podcasts are freely available for download or through RSS subscription, and all episodes are accompanied by reliable, professionally-made transcripts. The breakdown of the main corpus is presented below.
 
 Segments	Word Tokens	Hours
 10040		7544501		1083+
